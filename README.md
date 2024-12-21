@@ -6,7 +6,7 @@ Features:
 Search by Location: Enter the name of a place to get its pincode.
 User-friendly Interface: Clean and simple UI for quick access.
 Responsive Design: Optimized for both desktop and mobile users.
-Offline Capability: Works without internet after initial load (if hosted using PWA features).
+Offline Capability: Works without internet after initial load.
 
 Dataset:
 The dataset is sourced from Indian Post, ensuring reliable and up-to-date information.
